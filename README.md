@@ -13,7 +13,7 @@ This project uses the terminal to simulate an online hotel reservation system fo
 
 If the guest chooses to cancel a booking, the guest enters in their booking ID and the system alerts whether it was a successful cancellation, along with the refund value. That specific room will then be made vacant to other guests.
 
-## Technologies and concepts utilised
+## Technologies and Concepts Utilised
 C++, object-oriented programming principles, unit testing and integration testing
 
 ## How to Run
