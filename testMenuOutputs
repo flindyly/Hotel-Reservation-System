@@ -1,0 +1,20 @@
+echo The following test cases are inputs to a function that displays an error if a string contains spaces, is empty, or not equal to 1 or 2 menu options.
+echo For each test case, its expected output is shown below it.
+echo If no diff error message is displayed after the expected output, the test case has passed successfully.
+echo
+
+echo Test 01:
+./testMenu < menuinput01.txt
+./testMenu < menuinput01.txt | diff - menuoutput01.txt
+
+echo Test 02: 50986hjfdlkgjlj#
+./testMenu < menuinput02.txt
+./testMenu < menuinput02.txt | diff - menuoutput01.txt
+
+echo Test 03: -5
+./testMenu < menuinput03.txt
+./testMenu < menuinput03.txt | diff - menuoutput01.txt
+
+echo Test 04: 2
+./testMenu < menuinput04.txt
+./testMenu < menuinput04.txt | diff - menuoutput04.txt
