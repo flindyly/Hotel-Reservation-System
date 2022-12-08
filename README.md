@@ -17,5 +17,5 @@ If the guest chooses to cancel a booking, the guest enters in their booking ID a
 C++, object-oriented programming principles, unit testing and integration testing
 
 ## How to Run
-On the command line, enter 'make project' to run the entire project.
+On the command line, enter `make project` to run the entire project.
 
