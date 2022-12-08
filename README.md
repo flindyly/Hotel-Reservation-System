@@ -1,5 +1,6 @@
 # Hotel-Management-System
 Project type: Individual
+
 Status: Completed (21/10/2021)
 
 ## Project Description
