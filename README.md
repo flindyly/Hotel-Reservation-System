@@ -1,6 +1,8 @@
 # Hotel-Management-System
+Project type: Individual
+Status: Completed (21/10/2021)
 
-Completed: 21 October 2021.
+## Project Description
 
 This project focuses on the development of an online hotel reservation system for guests. When the guest accesses the online system, he/she can choose to login as an existing customer or create a new account. When creating a new account, the system will store the user’s login details so that the user does not have to create a new account every time they access the program. Once authenticated, the guest has two options: search for rooms, or cancel a previous booking. 
 
